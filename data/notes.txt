@@ -1,0 +1,5 @@
+Python is a programming language.
+
+Java is an object oriented programming language.
+
+Data structures organize and manage data efficiently.
